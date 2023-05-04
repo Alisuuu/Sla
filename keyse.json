@@ -139,7 +139,7 @@
 },
     "spec": 2,
     "background": {
-      "blur": 5,
+      "blur": 4,
       "url": "https://media.discordapp.net/attachments/804042967513694220/1103719879523172463/1683217694260.jpg",
       "alpha": 0.9,
       "color": "#282828"
