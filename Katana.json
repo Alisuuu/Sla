@@ -27,12 +27,12 @@
             "#C8B68E"
         ],
         "INTERACTIVE_NORMAL": [
-            "#882521",
-            "#d8c28f"
+            "#b821ae",
+            "#b821ae"
         ],
         "INTERACTIVE_HOVER": [
-            "#d8c28f",
-            "#d8c28f"
+            "#b821ae",
+            "#b821ae"
         ],
         "INTERACTIVE_ACTIVE": [
             "#4e8478",
@@ -107,8 +107,8 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#26273b",
-            "#26273b"
+            "#b821ae",
+            "#b821ae"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#b821ae",
