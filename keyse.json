@@ -15,7 +15,7 @@
           "#d8c28f"
       ],
       "TEXT_NORMAL": [
-          "#FFE8FE"
+          "#0a524f"
       ],
       "TEXT_MUTED": [
           "#5E5E5E"
@@ -91,13 +91,13 @@
           "#DAB3D8"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#114d3d"
+          "#0a524f"
       ],
       "CHANNELS_DEFAULT": [
           "#9E769C"
       ],
       "TEXT_DANGER": [
-          "#114d3d"
+          "#0a524f"
       ],
       "KEYBOARD": [
           "#282828"
