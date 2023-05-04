@@ -20,7 +20,7 @@
         ],
         "TEXT_NORMAL": [
             "#ffffff",
-            "#c8c8c8"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#A9966A",
@@ -35,18 +35,17 @@
             "#b821ae"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4e8478",
-            "#d8c28f"
+            "#b821ae",
+            "#b821ae"
         ],
         "INTERACTIVE_MUTED": [
             "#A8A8A8",
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#121114",
-            "#161519"
-        ],
-        "BACKGROUND_SECONDARY": [
+            "#b821ae",
+            "#b821ae"
+        ],        "BACKGROUND_SECONDARY": [
             "#121114",
             "#29272E"
         ],
