@@ -1,9 +1,9 @@
 {
-    "name": "Katana",
+    "name": "Keyse2",
     "description": "A theme made by Vodka Martini",
     "authors": [
         {
-            "name": "Vodka Martini",
+            "name": "Alisu",
             "id": "1068030255455015013"
         }
     ],
@@ -19,7 +19,7 @@
             "#d8c28f"
         ],
         "TEXT_NORMAL": [
-            "#E9E9E9",
+            "#c72abc",
             "#c8c8c8"
         ],
         "TEXT_MUTED": [
@@ -115,12 +115,12 @@
             "1a1926"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#A9966A",
+            "#c72abc",
             "#d8c28f"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#111111",
-            "#111111"
+            "#c72abc",
+            "#c72abc"
         ],
         "CHANNELS_DEFAULT": [
             "#414141",
@@ -166,7 +166,7 @@
   
       "background": {
     "blur": 0.6,
-    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "url": "https://media.discordapp.net/attachments/804042967513694220/1103719879523172463/1683217694260.jpg",
     "alpha": 0.4
     },
     "color": "#4d4463"
